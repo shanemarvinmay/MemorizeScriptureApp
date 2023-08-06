@@ -1,8 +1,8 @@
-import logo from './logo.svg';
 import './App.css';
 import VerticalStepper from './VerticalStepper';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
+import MenuBookIcon from '@mui/icons-material/MenuBook';
 
 const darkTheme = createTheme({
   palette: {
@@ -16,7 +16,7 @@ function App() {
       <CssBaseline />
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <MenuBookIcon color='primary' sx={{ fontSize: 240 }} />
           <VerticalStepper />
         </header>
       </div>
