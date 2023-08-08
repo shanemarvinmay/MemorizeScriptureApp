@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MemorizeScriptureApp/static/css/main.c90ae9f0.css",
-    "main.js": "/MemorizeScriptureApp/static/js/main.ebcea5d6.js",
+    "main.js": "/MemorizeScriptureApp/static/js/main.ec9b0fc3.js",
     "static/js/787.8ed520ca.chunk.js": "/MemorizeScriptureApp/static/js/787.8ed520ca.chunk.js",
     "index.html": "/MemorizeScriptureApp/index.html",
     "main.c90ae9f0.css.map": "/MemorizeScriptureApp/static/css/main.c90ae9f0.css.map",
-    "main.ebcea5d6.js.map": "/MemorizeScriptureApp/static/js/main.ebcea5d6.js.map",
+    "main.ec9b0fc3.js.map": "/MemorizeScriptureApp/static/js/main.ec9b0fc3.js.map",
     "787.8ed520ca.chunk.js.map": "/MemorizeScriptureApp/static/js/787.8ed520ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c90ae9f0.css",
-    "static/js/main.ebcea5d6.js"
+    "static/js/main.ec9b0fc3.js"
   ]
 }
